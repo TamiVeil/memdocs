@@ -95,7 +95,7 @@ Windows 10 update rings support [scope tags](../fundamentals/scope-tags.md). You
 
    When ready, select **Next** to continue to *Assignments*.
 
-6. Under **Assignments**, choose **+ Select groups to include** and then assign the update ring to one or more groups. Use **+ Select groups to exclude** to fine-tune the assignment. Select **Next** to continue.
+6. Under **Assignments**, choose **+ Select groups to include** and then assign the update ring to one or more device groups. Use **+ Select groups to exclude** to fine-tune the assignment. Select **Next** to continue.
 
 7. Under **Review + create**, review the settings, and then select **Create** when ready to save your Windows 10 update ring. Your new update ring is displayed in the list of update rings.
 
@@ -237,7 +237,7 @@ The following prerequisites must be met to use Windows 10 feature updates in Int
 
 3. Under **Basics**, specify a name, a description (optional), and for **Feature update to deploy**, select the version of Windows with the feature set you want, and then select **Next**.
 
-4. Under **Assignments**, choose **+ Select groups to include** and then assign the feature update deployment to one or more groups. Select **Next** to continue.
+4. Under **Assignments**, choose **+ Select groups to include** and then assign the feature update deployment to one or more device groups. Select **Next** to continue.
 
 5. Under **Review + create**, review the settings and select **Create** when ready to save the Windows 10 feature updates policy.  
 

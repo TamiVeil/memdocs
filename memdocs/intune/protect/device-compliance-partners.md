@@ -116,6 +116,7 @@ Your configuration now appears on the Partner compliance management page.
 To enable a device compliance partner to work with Intune, you must complete configurations specific to that partner. For information on this task, see the documentation for the applicable partner:
 
 - [VMware Workspace ONE UEM](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/Directory_Service_Integration/GUID-800FB831-AA66-4094-8F5A-FA5899A3C70C.html)  
+- [Jamf Pro] (https://docs.jamf.com/technical-papers/jamf-pro/microsoft-endpoint-manager/10.25.0/Introduction.html)
 
 ## Enroll your iOS or Android devices to that device compliance partner
 
